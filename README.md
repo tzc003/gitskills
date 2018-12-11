@@ -1,2 +1,6 @@
 # gitskills
-branch feature111111111master
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> feature1
